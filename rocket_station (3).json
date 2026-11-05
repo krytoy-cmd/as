@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [" R ", "O O", "OOO"],
+  "key": {
+    "R": {"item": "alisa_rockets:rocket"},
+    "O": {"item": "minecraft:obsidian"}
+  },
+  "result": {"item": "alisa_rockets:rocket_station"}
+}

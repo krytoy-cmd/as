@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [" C ", " C ", " P "],
+  "key": {
+    "C": {"item": "alisa_rockets:rocket_charge"},
+    "P": {"item": "minecraft:paper"}
+  },
+  "result": {"item": "alisa_rockets:rocket"}
+}
